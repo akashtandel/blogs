@@ -2,7 +2,7 @@ import "@styles/globals.css";
 import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 export const metadata = {
-    title: "next14",
+    title: "Promptopia",
     description: "Discover & share AI prompts"
 }
 
